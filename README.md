@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Read a bit about me ![here](https://goncermor.com/)</h3>
+<h3 align="left">Read a bit about me <a href="https://goncermor.com/">here</a></h3>
 
 ###
 
@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ciwzdkk6ixosjqo9r0ez1h4ea">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false&user=ciwzdkk6ixosjqo9r0ez1h4ea" alt="Spotify recently played"  />
   </a>
 </div>
 
