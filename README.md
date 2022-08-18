@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">Thech I use in my everyday</h4>
+<h4 align="left">Tech I use in my everyday</h4>
 
 ###
 
