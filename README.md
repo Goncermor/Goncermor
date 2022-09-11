@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Goncermor/Goncermor/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Goncermor/Goncermor/main/snk.svg" alt="Snake animation" />
 
 ###
 
