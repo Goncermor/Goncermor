@@ -33,7 +33,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio)](https://skillicons.dev)
 
 ###
 
