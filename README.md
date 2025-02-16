@@ -10,7 +10,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,php,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,php)](https://skillicons.dev)
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,kali,arch,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,kali,raspberrypi)](https://skillicons.dev)
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,rider,vscode,idea,androidstudio)](https://skillicons.dev)
 
 ###
 
