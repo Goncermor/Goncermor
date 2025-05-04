@@ -10,7 +10,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,cs,cpp,php)](https://skillicons.dev)
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,kali,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,kali,raspberrypi,)](https://skillicons.dev)
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,)](https://skillicons.dev)
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bots,git,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,arduino,bots,git,nodejs)](https://skillicons.dev)
 
 ###
 
