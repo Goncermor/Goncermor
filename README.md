@@ -10,14 +10,14 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,cs,cpp,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,php)](https://skillicons.dev)
 
 ###
 
 <h4 align="left">Platforms</h4>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,github,figma,firebase,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,github,figma,windows,linux)](https://skillicons.dev)
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,kali,raspberrypi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu)](https://skillicons.dev)
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,rider,vscode,idea,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,rider,vscode)](https://skillicons.dev)
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 ###
 
