@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Read a bit about me <a href="https://goncermor.com/">here</a></h3>
+<!--<h3 align="left">Read a bit about me <a href="https://goncermor.com/">here</a></h3>-->
 
 ###
 
