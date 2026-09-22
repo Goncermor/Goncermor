@@ -25,7 +25,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,solus)](https://skillicons.dev)
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx,mongodb,jellyfin,nextcloud)](https://skillicons.dev)
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=figma,arduino,bots,git,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,arduino,git)](https://skillicons.dev)
 
 ###
 
