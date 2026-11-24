@@ -64,3 +64,5 @@
 <br clear="both">
 
 ###
+
+![Top Languages](./profile/top-langs.svg)
