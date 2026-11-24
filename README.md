@@ -1,68 +1,29 @@
-<h2 align="left">Hey, I am Goncermor</h2>
+# Gonçalo Morais
 
-###
+## About
 
-<!--<h3 align="left">Read a bit about me <a href="https://goncermor.com/">here</a></h3>-->
+- Currently studying at **42 Porto**, a peer-to-peer, project-based programme focused on C, Python and Unix.
+- Self-hosting **Nextcloud** and **Jellyfin** on **Ubuntu Server**, with Nginx and Cloudflare.
+- Tinkering with electronics.
 
-###
+## Tech Stack
 
-<h4 align="left">Programing Languages</h4>
+**Languages**
 
-###
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cs,html,css,js)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,php)](https://skillicons.dev)
+**Frameworks & Runtimes**
 
-###
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet)
 
-<h4 align="left">Platforms</h4>
+**Infrastructure & DevOps**
 
-###
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,github,figma,windows,linux)](https://skillicons.dev)
+![Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,linux,nginx,cloudflare,git)
 
-###
+**Tools**
 
-<h4 align="left">Linux Distros</h4>
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,vim)
 
-###
-
-[![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,solus)](https://skillicons.dev)
-
-###
-
-<h4 align="left">IDEs/Code Editors</h4>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,rider,vscode)](https://skillicons.dev)
-
-###
-
-<h4 align="left">Frameworks</h4>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
-
-###
-
-<h4 align="left">Servers</h4>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=nginx,mongodb,jellyfin,nextcloud)](https://skillicons.dev)
-
-###
-
-<h4 align="left">Others</h4>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=figma,arduino,git)](https://skillicons.dev)
-
-###
-
-<br clear="both">
-
-###
+## GitHub Stats
 
 ![Top Languages](./profile/top-langs.svg)
